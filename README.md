@@ -7,5 +7,6 @@ Hi, im John
 
 ## &#x1f4c8; GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanKolo04)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JanKolo04)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JanKolo04&langs_count=3&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JanKolo04&count_private=true&theme=tokyonight&showicons=true)]()
+
