@@ -10,6 +10,7 @@ Hi, im John
 <a href="https://github.com/JanKolo04/JanKolo04">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanKolo04&langs_count=3&theme=tokyonight"/>
 </a>
+
 <a href="https://github.com/JanKolo04/JanKolo04">
   <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/?username=JanKolo04&count_private=true&theme=tokyonight&showicons=true" alt="Martin's GitHub Stats"/>
 </a>
