@@ -15,4 +15,4 @@ Hi, im John
   <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=JanKolo04&count_private=true&theme=tokyonight&showicons=true">
 </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JanKolo04.visitor-badge&left_text=MyPageVisitors)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JanKolo04.visitor-badge&left_text=ProfileVisitor)
