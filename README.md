@@ -16,3 +16,4 @@ Hi, im John
 </a>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JanKolo04.visitor-badge&left_text=My%20Profile%20Visitors)
+
