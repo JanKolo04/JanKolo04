@@ -11,7 +11,7 @@
 
 I'm a Computer Sience student i learning about full-stac and alghorytmic.
 
-As a Computer Sience student i try develop myself doing projects becaouse learning from books is bored
+As a Computer Sience student i try develop myself doing projects because learning from books is bored
 
 **About me:**
 - 👨🏻‍💻 I develop myself into side full-stack and algorithmics
