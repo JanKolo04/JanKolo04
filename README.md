@@ -4,7 +4,10 @@
 
 ### Hi nice to see you! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JanKolo04.visitor-badge&left_text=My%20Profile%20Visitors)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="370" height="280" />
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="370" height="280"/>
+
+
 
 I'm a Computer Sience student i learning about full-stac and alghorytmic.
 
@@ -15,6 +18,7 @@ As a Computer Sience student i try develop myself doing projects becaouse learni
 - 🚀 My current project is task table website with login system etc..
 - 🏄‍♂️ My passion is windsurfing and progrmaing 
 - 💻 I wanna by a software enginner
+
 <br>
 
 
