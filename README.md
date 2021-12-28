@@ -13,7 +13,7 @@ I'm a Computer Sience student i learning about full-stac and alghorytmic.
 
 As a Computer Sience student i try develop myself doing projects becaouse learning from books is bored
 
-### About me:
+**About me:**
 - 👨🏻‍💻 I develop myself into side full-stack and algorithmics
 - 🚀 My current project is task table website with login system etc..
 - 🏄‍♂️ My passion is windsurfing and progrmaing 
@@ -22,7 +22,7 @@ As a Computer Sience student i try develop myself doing projects becaouse learni
 <br>
 
 
-## &#x1f4c8; GitHub Stats
+**&#x1f4c8; GitHub Stats**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanKolo04&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
