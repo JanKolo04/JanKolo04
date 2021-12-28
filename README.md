@@ -5,7 +5,7 @@
 ### Hi nice to see you! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JanKolo04.visitor-badge&left_text=My%20Profile%20Visitors)
 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="370" height="280"/>
+<img align="right" alt="GIF" src="https://github.com/JanKolo04/JanKolo04/blob/main/coding.gif?raw=true" width="370" height="280"/>
 
 
 
