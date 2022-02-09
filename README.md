@@ -2,7 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jano_freshmann/)
 
-### Hi nice to see you! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JanKolo04.visitor-badge&left_text=My%20Profile%20Visitors)
+### Hi nice to see you! &nbsp; ![visitor badge](https://komarev.com/ghpvc/?username=JanKolo04&color=blue)
 
 
 <img align="right" alt="GIF" src="code_gif.gif" width="420" height="280"/>
