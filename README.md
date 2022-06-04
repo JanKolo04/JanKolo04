@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://github.com/JanKolo04" target="_blank">Jan Kołodziej</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://github.com/JanKolo04" target="_blank">Jan Kołodziej</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jano_freshmann/)
 
