@@ -32,6 +32,3 @@ As a Computer Sience student i try develop myself doing projects because learnin
 
 
 
-
-
-
