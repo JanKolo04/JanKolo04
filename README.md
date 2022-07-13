@@ -9,7 +9,7 @@
 
 
 
-I'm a Computer Sience student i learning about full-stack and alghorytmic.
+Hi, I am a CS student with specialization about back-end.
 
 As a Computer Sience student i try develop myself doing projects because learning from books is bored
 
