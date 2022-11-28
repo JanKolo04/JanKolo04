@@ -5,7 +5,7 @@
 ### Hi nice to see you! &nbsp; ![visitor badge](https://komarev.com/ghpvc/?username=JanKolo04&color=blue)
 
 
-<img align="right" alt="GIF" src="code_gif.gif" width="420" height="280"/>
+<img align="right" alt="GIF" src="code_gif.gif" width="420" height="280" style="border-radius: 8px;"/>
 
 
 
