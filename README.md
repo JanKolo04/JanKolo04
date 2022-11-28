@@ -5,8 +5,7 @@
 ### Hi nice to see you! &nbsp; ![visitor badge](https://komarev.com/ghpvc/?username=JanKolo04&color=blue)
 
 
-<img align="right" alt="GIF" src="code_gif.gif" width="420" height="280" style="border-radius: 8px;"/>
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76879087/204387700-7dce75f4-1868-41d1-8882-c4b1edfb9320.gif" width="420" height="280"/>
 
 
 Hi, I am a CS student with specialization about back-end.
