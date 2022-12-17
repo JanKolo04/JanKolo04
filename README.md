@@ -8,15 +8,15 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76879087/204387700-7dce75f4-1868-41d1-8882-c4b1edfb9320.gif" width="420" height="280"/>
 
 
-Hi, I am a CS student with specialization about back-end.
+Hi, I am a Computer Sience student with backend specialization.
 
-As a Computer Sience student i try develop myself doing projects because learning from books is bored
+As a CS student i try develop myself doing projects and read some books about it
 
 **About me:**
-- 👨🏻‍💻 I develop myself into side full-stack and algorithmics
-- 🚀 My current project is task table website with login system etc..
-- 🏄‍♂️ My passion is windsurfing and progrmaing 
-- 💻 I wanna by a software enginner
+- 👨🏻‍💻 I develop myself in backend (PHP, Node.js, SQL, Mongo) and some algorytmics
+- 🚀 My current goal is learn aobut API
+- 🏄‍♂️ My passion is windsurfing and read books 
+- 💻 I wanna by a software enginner with backend specialization
 
 <br>
 
