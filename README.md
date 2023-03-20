@@ -13,7 +13,7 @@ Hi, I am a Computer Sience student with backend specialization.
 As a CS student i try develop myself doing projects and read some books about it
 
 **About me:**
-- 👨🏻‍💻 I develop myself in backend (PHP, Node.js, SQL, Mongo) and some algorytmics
+- 👨🏻‍💻 My main skills is programing in (PHP, Python, MYSQL) and soloves algorytmics
 - 🚀 My current goal is learn aobut API
 - 🏄‍♂️ My passion is windsurfing and read books 
 - 💻 I wanna by a software enginner with backend specialization
