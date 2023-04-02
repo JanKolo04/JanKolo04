@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://github.com/JanKolo04" target="_blank">Jan Kołodziej</a>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jano_freshmann/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jan_programowanie/)
 
 ### Hi nice to see you! &nbsp; ![visitor badge](https://komarev.com/ghpvc/?username=JanKolo04&color=blue)
 
@@ -8,15 +8,13 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76879087/204387700-7dce75f4-1868-41d1-8882-c4b1edfb9320.gif" width="420" height="280"/>
 
 
-Hi, I am a Computer Sience student with backend specialization.
-
-As a CS student i try develop myself doing projects and read some books about it
+Hi, my name is John I'am student with CS class. I improve my skllis in programing and analytical thinking. My favorite programing language is PHP, but I also learn Python, because have many cool libraries like OpenCV.
 
 **About me:**
-- 👨🏻‍💻 My main skills is programing in (PHP, Python, MYSQL) and soloves algorytmics
-- 🚀 My current goal is learn aobut API
-- 🏄‍♂️ My passion is windsurfing and read books 
-- 💻 I wanna by a software enginner with backend specialization
+- 👨🏻‍💻 My main skills is programing in (PHP, Python, MySQL) and soloves algorytmics
+- 🚀 My current project is Task 2.0 witch will have more functions
+- 🏄‍♂️ My passion is windsurfing and read books
+- 💻 I wanna be Big data / Software engineer
 
 <br>
 
