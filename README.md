@@ -12,8 +12,8 @@ Hi, my name is John I'am student with CS class. I improve my skllis in programin
 
 **About me:**
 - 👨🏻‍💻 My main skills is programing in (PHP, Python, MySQL) and soloves algorytmics
-- 🚀 My current project is Task 2.0 witch will have more functions
-- 🏄‍♂️ My passion is windsurfing and read books
+- 🚀 My current project is Task 2.0 witch will have more functions than before
+- 🏄‍♂️ My passion is windsurfing and reading books
 - 💻 I wanna be Big data / Software engineer
 
 <br>
