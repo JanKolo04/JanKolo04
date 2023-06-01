@@ -8,13 +8,13 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/76879087/204387700-7dce75f4-1868-41d1-8882-c4b1edfb9320.gif" width="420" height="280"/>
 
 
-Hi, my name is John I'am student with CS class. I improve my skllis in programing and analytical thinking. My favorite programing language is PHP, but I also learn Python, because have many cool libraries like OpenCV.
+Hi, my name is John. I improve my skllis in Web Application Developing. My favorite programing language is PHP and Symfony framework, but I also learn Python, because is easy to learn and can make cool things.
 
 **About me:**
 - 👨🏻‍💻 My main skills is programing in (PHP, Python, MySQL) and soloves algorytmics
 - 🚀 My current project is Task 2.0 witch will have more functions than before
 - 🏄‍♂️ My passion is windsurfing and reading books
-- 💻 I wanna be Big data / Software engineer
+- 💻 I wanna be Web Application Engineer
 
 <br>
 
