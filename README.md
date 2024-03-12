@@ -10,7 +10,6 @@
 
 I'm John, a Full Stack Developer specializing in Laravel and PrestaShop, with a year of experience in the field. As an architect of systems in Laravel, I bring a comprehensive understanding of designing robust and scalable applications. With a knack for algorithmic problem-solving and little bit of Cyber security.
 
-## About Me:
 - 👨🏻‍💻 My main expertise lies in Prestashop, Laravel and.
 - 🏗️ I'm also an architect of systems in Laravel, adept at designing robust and scalable applications
 - 🏄‍♂️ Apart from coding, I enjoy windsurfing and diving into a good book.
