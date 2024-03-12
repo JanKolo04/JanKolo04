@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://github.com/JanKolo04" target="_blank">Jan Kołodziej</a>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jan_programowanie/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jan_programowanie/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jankolo04/)
 
 ### Hi nice to see you! &nbsp; ![visitor badge](https://komarev.com/ghpvc/?username=JanKolo04&color=blue)
 
